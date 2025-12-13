@@ -2,7 +2,7 @@
 
 Source code of DVTFusion. 
 
-<img src="doc/abs.png" width="60%">
+<img src="docs/abs.png" width="60%">
 
 ## TODO
 ```
