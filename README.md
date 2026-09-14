@@ -27,5 +27,10 @@ This project was completed based on BEVDet, and we thank BEVDet for its open-sou
 ## Citation
 If you find our work useful, please consider cite our REPO. 
 ```
-
+@misc{DVTFusion,
+    title={DVTFusion: An Efficient LiDAR-Camera Multimodal Object Detection Network with Dynamic Feature-Aware View Transformation Module},
+    author={Zhuo Chen, Xianlu Tao, Gaoyang Xiong, Shuguo Pan, Wang Gao},
+    howpublished = {\url{https://github.com/zhuo-limeade/DVTFusion}},
+    year={2026}
+}
 ```
